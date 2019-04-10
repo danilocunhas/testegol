@@ -1,0 +1,42 @@
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.deps.json
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.runtimeconfig.json
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.runtimeconfig.dev.json
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.dll
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.pdb
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.RazorAssemblyInfo.cache
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.RazorAssemblyInfo.cs
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.RazorTargetAssemblyInfo.cache
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.dll
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.pdb
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.ApplicationService.dll
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.dll
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Infra.dll
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.ApplicationService.pdb
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.pdb
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Infra.pdb
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.csproj.CopyComplete
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.deps.json
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.runtimeconfig.json
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.runtimeconfig.dev.json
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.dll
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Service.pdb
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.ApplicationService.dll
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.dll
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Infra.dll
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.ApplicationService.pdb
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.pdb
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\bin\Debug\netcoreapp2.2\Teste.GOL.Infra.pdb
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.csprojAssemblyReference.cache
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.csproj.CoreCompileInputs.cache
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.RazorAssemblyInfo.cache
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.RazorAssemblyInfo.cs
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.AssemblyInfoInputs.cache
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.AssemblyInfo.cs
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.RazorTargetAssemblyInfo.cache
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.csproj.CopyComplete
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.dll
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Service\obj\Debug\netcoreapp2.2\Teste.GOL.Service.pdb

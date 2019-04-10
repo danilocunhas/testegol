@@ -1,0 +1,30 @@
+<div class="col-md-12">
+  <form [formGroup]="editForm" (ngSubmit)="onSubmit()">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="form-group col-md-12">
+          <label for="code">Código:</label>
+          <input formControlName="code" type="number" name="code" class="form-control" id="code">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="form-group col-md-12">
+          <label for="model">Modelo:</label>
+          <input formControlName="model" name="model" class="form-control" id="model">
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="form-group col-md-12">
+          <label for="numberOfPassengers">Número de passageiros:</label>
+          <input formControlName="numberOfPassengers" type="number" name="numberOfPassengers" class="form-control"
+            id="numberOfPassengers">
+        </div>
+      </div>
+    </div>
+    <button class="btn btn-primary">Atualizar</button>
+  </form>
+
+
+</div>

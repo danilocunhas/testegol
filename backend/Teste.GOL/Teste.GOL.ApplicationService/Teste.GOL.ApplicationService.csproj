@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Teste.GOL.Domain\Teste.GOL.Domain.csproj" />
+    <ProjectReference Include="..\Teste.GOL.Infra\Teste.GOL.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,18 @@
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.deps.json
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.dll
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.pdb
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.dll
+C:\Users\Danilo\source\repos\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.pdb
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.csprojAssemblyReference.cache
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.csproj.CoreCompileInputs.cache
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.AssemblyInfoInputs.cache
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.AssemblyInfo.cs
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.dll
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\obj\Debug\netcoreapp2.2\Teste.GOL.Domain.pdb
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.deps.json
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.dll
+C:\Goleta\BackEnd TesteGol\BackEnd TesteGol\Teste.GOL\Teste.GOL.Domain\bin\Debug\netcoreapp2.2\Teste.GOL.Domain.pdb

@@ -1,0 +1,30 @@
+<div class="col-md-10">
+  <div class="row">
+    <div class="col-xs-6 spaceBottom20"><button (click)="add()"> Adicionar novo
+        avião</button></div>
+  </div>
+  <table class="table-hover table">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Código</th>
+        <th>Modelo</th>
+        <th>Passageiros</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let airplane of airplanes">
+        <td>{{airplane.id}}</td>
+        <td>{{airplane.code}}</td>
+        <td>{{airplane.model}}</td>
+        <td>{{airplane.numberOfPassengers}}</td>
+        <td>
+          <button class="btn btn-primary" (click)="edit(airplane)"> <i class="fa fa-edit"></i>
+            Editar</button>
+          <button class="btn btn-primary spaceLeft20" (click)="delete(airplane)"> <i class="fa fa-times"></i></button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
